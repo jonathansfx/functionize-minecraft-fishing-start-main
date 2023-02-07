@@ -68,8 +68,8 @@ function fishBtnClicked() {
 }
 
 function catchFish(fishType, fishImg, fishSpan)
-resultImg =
-numCodSpan =
+resultImg = 
+numCodSpan = 
 numSalmonSpan =
 numTropicalSpan =
 numPufferSpan =
